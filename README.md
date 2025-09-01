@@ -16,4 +16,4 @@
   - [x] SHGHGF
 
   ## Image
-  ![Alternative Text](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/s/ssc2008-10b1.jpg?w=5600&h=5600&fit=clip&crop=faces%2Cfocalpoint)
+  ![Alternative Text](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/s/ssc2008-10b1.jpg?w=1600&h=1600&fit=clip&crop=faces%2Cfocalpoint)
